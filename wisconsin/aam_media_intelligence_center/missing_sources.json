@@ -1,0 +1,14 @@
+[
+    {
+        "newspaper": "Wall Street Journal",
+        "domain": "wsj.com"
+    },
+    {
+        "newspaper": "USA Today",
+        "domain": "usatoday.com"
+    },
+    {
+        "newspaper": "The New York Times",
+        "domain": "nytimes.com"
+    }
+]

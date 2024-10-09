@@ -1,0 +1,8 @@
+# ignore folders 
+
+wisconsin/data/
+wisconsin/aam_media_intelligence_center/
+
+
+# ignore files
+wisconsin/src/.env
