@@ -1,7 +1,10 @@
 # ignore folders 
 wisconsin/data/
 wisconsin/aam_media_intelligence_center/
-
+wisconsin/src/gravestones/
+wisconsin/src/__pycache__/
 
 # ignore files
 wisconsin/src/.env
+wisconsin/src/dropbox.ipynb
+select_uids.sql
